@@ -17,3 +17,4 @@
 
 - https://www.getoutline.com/
 - https://appflowy.com/
+- https://www.notion.com/
